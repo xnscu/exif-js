@@ -1,5 +1,5 @@
 {
-  "name": "exif-js",
+  "name": "@xnscu/exif-js",
   "version": "2.3.0",
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
